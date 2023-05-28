@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/iptvstore72/static/css/main.6352a752.css",
-    "main.js": "/iptvstore72/static/js/main.c0ccd618.js",
+    "main.js": "/iptvstore72/static/js/main.b733037e.js",
     "static/js/787.a0afb5c9.chunk.js": "/iptvstore72/static/js/787.a0afb5c9.chunk.js",
     "static/media/staduim.png": "/iptvstore72/static/media/staduim.69af63348bdb1984adc8.png",
     "static/media/WhatsApp Image 2023-05-12 at 00.13.27.jpeg": "/iptvstore72/static/media/WhatsApp Image 2023-05-12 at 00.13.27.d5ec5a23feb5d2b0323e.jpeg",
     "static/media/leagues.png": "/iptvstore72/static/media/leagues.c379e343716189576a6e.png",
     "index.html": "/iptvstore72/index.html",
     "main.6352a752.css.map": "/iptvstore72/static/css/main.6352a752.css.map",
-    "main.c0ccd618.js.map": "/iptvstore72/static/js/main.c0ccd618.js.map",
+    "main.b733037e.js.map": "/iptvstore72/static/js/main.b733037e.js.map",
     "787.a0afb5c9.chunk.js.map": "/iptvstore72/static/js/787.a0afb5c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6352a752.css",
-    "static/js/main.c0ccd618.js"
+    "static/js/main.b733037e.js"
   ]
 }
